@@ -1,14 +1,12 @@
 # Hi 👋, I'm Maxime Bazin
 
 Graduate student in Mechanical Engineering at the University of Michigan,  
-with a strong focus on computational fluid dynamics, numerical methods, and simulation.
-
+with a strong focus on **computational fluid dynamics, numerical methods, and physics-based simulation**.
 ---
 
 ## 🔭 Current focus
-- Finite-volume solvers for incompressible flows
 - Numerical methods for CFD (projection methods, multigrid, stability)
-- Coupling CFD with experiments (PIV, flow control)
+- Experimental flow control using PIV-based flow diagnostics
 
 ---
 
