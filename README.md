@@ -4,8 +4,7 @@ Graduate student in Mechanical Engineering at the University of Michigan,
 with a strong focus on **computational fluid dynamics, numerical methods, and physics-based simulation**.
 
 While my coursework is centered on CFD and numerical methods, my research work
-is experimental, focusing on PIV-based flow control, with the long-term goal of
-bridging modeling and experiments in fluid mechanics.
+is experimental, focusing on PIV-based flow control.
 
 ---
 
